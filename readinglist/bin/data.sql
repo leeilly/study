@@ -1,0 +1,1 @@
+insert into Reader (username, password, fullname) values ('illy', '123456', 'Illy Lee');
